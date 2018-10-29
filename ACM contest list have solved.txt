@@ -1,0 +1,18 @@
+2017 ACM-ICPC EC-Final ShangHai 
+	J.  Straight Master (159 solved) (dp)
+	K. SOS (122 solved) (IQ)
+
+2016 ACM-ICPC Qingdao
+	D. Lucky Coins (36 solved) (dp)
+
+The 2016 ACM-ICPC Asia China-Final Shanghai Contest
+	D. Ice Cream Tower (223 solved) (binary search, greedy)	
+	E. Bet (113 solved) (IQ)
+	F. Mr.Panda and Fantastic Beasts (72 solved) (string)
+	H. Great Cells (100 solved) (IQ, math)
+
+CERC 17
+	F. Faulty Factorial (59 solved) (math)
+	G. Gambling Guide (28 solved) (probability, short path)
+	J. Justified Jungle (37 solved) (IQ)
+	L. Lunar Landscape (10 solved) (IQ)
